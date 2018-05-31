@@ -24,7 +24,7 @@ const displayText = (text) =>{
     }    
 }
 
-const ImageButton = ({src, imageStyle, text, onPressButton}) => {
+const ImageButton = ({src, text, onPressButton}) => {
     return (
         <TouchableOpacity onPress={onPressButton}>
              {toDisplay(src, text)}

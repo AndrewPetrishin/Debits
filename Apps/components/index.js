@@ -3,3 +3,5 @@ export * from './Footer.js';
 export * from './ImageButton.js';
 export * from './CardList.js';
 export * from './Card.js';
+export * from './LeftStatusBar.js';
+

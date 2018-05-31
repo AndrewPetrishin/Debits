@@ -23,7 +23,7 @@ const styles = {
         height: 90 , 
         flexDirection: 'row',
         justifyContent: 'space-around',
-        alignItems: 'center',
+        alignItems: 'center'
     }
 };
 

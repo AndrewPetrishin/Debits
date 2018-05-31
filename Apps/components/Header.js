@@ -12,19 +12,24 @@ const Header = (props) => {
 
 const styles = {
     mainContainer:{
-        backgroundColor: '#74b9ff',
+        // position: 'absolute',  
+        // zIndex: 100,
+        // top: 0,
+        // left: 0,
+        // right: 0,
+        backgroundColor: '#00A6FF',
         justifyContent: 'center',
         alignItems: 'center',
         height: 100,
-        shadowColor: '#000',
-        shadowOffset: { width:3, height:14 },
-        //shadowOpacity: 0.2,
+        // shadowColor: '#000',
+        // shadowOffset: { width:3, height:14 },
+        // shadowOpacity: 0.2,
         // elevation : 2,
         // position: 'relative'
     },
     textStyle:{
-        fontSize: 30,
-        color: '#d63031'
+        fontSize: 34,
+        color: '#fff'
     }
 };
 

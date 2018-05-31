@@ -8,7 +8,7 @@ export default class Service {
               "key": "1",
               "title": "First object",
               "thumbnail_image": "",
-              "totalPrice": 1000000000.3,
+              "totalPrice": 1000000000,
               "date": "2018-04-12",
               "isHistiry": false,
               "isReturned" : false
@@ -17,7 +17,7 @@ export default class Service {
               "key": "2",
               "title": "2 object",
               "thumbnail_image": "",
-              "totalPrice": 20.45,
+              "totalPrice": 20.5,
               "date": "2018-09-12",
               "isHistiry": false,
               "isReturned" : false
@@ -26,7 +26,7 @@ export default class Service {
               "key": "3",
               "title": "3 object",
               "thumbnail_image": "http://lorempixel.com/50/50/sports/",
-              "totalPrice": 45.3,
+              "totalPrice": 45.00,
               "date": "2018-09-12",
               "isHistiry": false,
               "isReturned" : true
@@ -35,7 +35,7 @@ export default class Service {
               "key": "4",
               "title": "4 object",
               "thumbnail_image": "http://i.imgur.com/K3KJ3w4h.jpg",
-              "totalPrice": 20.45,
+              "totalPrice": 20.01,
               "date": "2018-09-12",
               "isHistiry": false
             },
@@ -43,7 +43,7 @@ export default class Service {
               "key": "5",
               "title": "5 object",
               "thumbnail_image": "http://lorempixel.com/50/50/sports/",
-              "totalPrice": 45.3,
+              "totalPrice": 0.3,
               "date": "2018-09-12",
               "isHistiry": false
             },
